@@ -1,3 +1,3 @@
-# TreeSeed API content
+# TreeSeed API library
 
-Authoritative content history for `treeseed-ai/api`. Operate content through TreeDX and publish immutable runtime content through the protected workflow.
+Authoritative project library history for `treeseed-ai/api`. Operate library knowledge through TreeDX and publish immutable runtime content through the protected workflow.
